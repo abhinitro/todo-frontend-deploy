@@ -1,0 +1,52 @@
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .jumbotron {
+    margin-top: 50px;
+    background-color: snow;
+  }
+  .card {
+    margin-left: 25px;
+    margin-right: 25px;
+   
+  }
+  
+  hr {
+    width: 70%;
+  }
+  
+
+  .form-title{
+
+    position: relative;
+    margin-left: 35%;
+  }
+  .pull-right{
+
+    float: right;
+  }
+
+  .top-margin {
+    margin-top: 40px;
+}
+
+.addtolist {
+  margin-left: 4px;
+}
+
+@media only screen and (max-width: 600px) {
+ 
+   .btn-collection button{
+
+    height: 28px;
+    font-size: 10px;
+    padding: 3px;
+    width: 69px;
+    margin-top: 2px;
+
+
+   }
+}
